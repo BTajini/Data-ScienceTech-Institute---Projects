@@ -9,6 +9,7 @@
 ###	Algorithme - Métro de Paris :
   *	Création d'un algorithme qui recherche le chemin le plus court entre la station de départ et la station d'arrivée (métro de Paris). 
   *	**Technologies Used**: Python, Matplotlib, Depth-First-Search, Breadth First Search, Dijkstra, Neural network model, Fibonacci Heap
+  * link : [Paris Metro](https://github.com/BTajini/Data-ScienceTech-Institute---Projects/blob/master/Project_paris_final.py)
 
 ###	Algorithme - Veolia :
   *	Création d'un algorithme qui gère le réseau d'assainissement d'une région. 

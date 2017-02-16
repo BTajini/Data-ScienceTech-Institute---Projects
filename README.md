@@ -33,6 +33,7 @@
 ###	Spark Streaming - Twitter :
   *	Création et configuration d'un Dataflow qui analysera en temps réel les tweets d'un compte prédéfini.
   *	**Technologies Used**: Cloudera, Apache Nifi, Apache Spark, Kafka, HBase and Hive.
+  * link : [Spark-Streaming-Twitter](https://github.com/BTajini/Spark-streaming-twitter)
 
 ###	Algorithme - Capacitated Vehicle Routing Problem (CVRP)- Genetic Algorithm:
   *	Résolution d'un problème de routage de véhicule avec l'Algorithme génétique. 

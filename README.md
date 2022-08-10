@@ -41,7 +41,7 @@
 #### Spark Streaming - Twitter :
   *	Création et configuration d'un Dataflow qui analysera en temps réel les tweets d'un compte prédéfini.
   *	**Technologies Used**: Cloudera, Apache Nifi, Apache Spark, Kafka, HBase and Hive.
-  * link : [Spark-Streaming-Twitter](https://github.com/BTajini/Spark-streaming-twitter)
+  * link : [Spark-Streaming-Twitter-presidential](https://github.com/BTajini/SparkStreamingTwitter-presidential)
   
 ###	Advanced Statistical Analysis and Machine Learning:
 ####	Statistique Avancée - Budget du Gouvernement :
@@ -59,10 +59,10 @@
 
 ###	Engineering project 
 #### 1.  Deep Learning - Deep Residual Networks (Identity Mappings) - Food 101:
-   *	  Deep Residual Learning network pour la reconnaissance et classification d'images du Dataset Food 101 avec comme Residual Networks        
+   * Deep Residual Learning network pour la reconnaissance et classification d'images du Dataset Food 101 avec comme Residual Networks        
        - (ResNet): ResNet-110/Resnet-164/wide-Resnet.
-   *	 **Technologies Used**: Ubuntu, Python, Theano, Lasagne, CUDA, NVidia GPU, Dataset: Food 101 (**101 000 images**)
-   *  link : [Resnet-Theano-Lasagne](https://github.com/BTajini/Resnet-Theano)
+   * **Technologies Used**: Ubuntu, Python, Theano, Lasagne, CUDA, NVidia GPU, Dataset: Food 101 (**101 000 images**)
+   * link : [Resnet-Theano-Lasagne](https://github.com/BTajini/Resnet-Theano)
 
 ###	GE DIGITAL Hackathon - Challenge HealthCare:  
 *	Application DoseWatch + pour hôpitaux européens utilisant la plate-forme PREDIX basée sur un jeu de données réel

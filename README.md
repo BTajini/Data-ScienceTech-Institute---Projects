@@ -7,7 +7,7 @@
   *	Création d'un modèle de prédiction du comportement de consommateur qui prend en comptes des données subjectives (notoriété des           points de vente, image, service) et objectives (attractivité des points de vente, notion de distance ou temps d'accès, concurrence).
   *	**Algorithmes et Outils**: Netlogo, Modèle de Huff, Modèle MCI subjectif
 
-###	Algorithmics for Data Science - Continuous Optimisation:
+###	Algorithmics for Data Science - Optimisation:
 ####	Algorithmes - QuickSort & HeapSort :
   *	Simulation de QuickSort et HeapSort Algorithms. 
   *	**Outils**: Python 

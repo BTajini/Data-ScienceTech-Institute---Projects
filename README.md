@@ -7,7 +7,7 @@
   *	Création d'un modèle de prédiction du comportement de consommateur qui prend en comptes des données subjectives (notoriété des           points de vente, image, service) et objectives (attractivité des points de vente, notion de distance ou temps d'accès, concurrence).
   *	**Algorithmes et Outils**: Netlogo, Modèle de Huff, Modèle MCI subjectif
 
-###	- Algorithmics for Data Science - Optimisation:
+###	- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Algorithmics for Data Science - Optimisation:
 ####	Algorithmes - QuickSort & HeapSort :
   *	Simulation de QuickSort et HeapSort Algorithms. 
   *	**Outils**: Python 
@@ -28,22 +28,22 @@
   *	**Algorithmes et Outils**: Python - Matplotlib- Genetic algorithm - Neural network
   * link : [CVRP](https://github.com/BTajini/CVRP-DHL-Algorithm)
    
-### - Analysis and Design of Complex Information Systems:
+### - ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Analysis and Design of Complex Information Systems:
 ####	Conception et développement d'un distributeur bancaire - ATM :
   *	Création complète d'un distributeur bancaire en méthode Agile .
   *	**Algorithmes et Outils**: C#.net, SQL Server, ER Model, UML, Agile, Reporting
 
-###	- Amazon AWS - Cloud-Computing:
+###	- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Amazon AWS - Cloud-Computing:
   *	Création d'une architecture réseau sécurisée connectée à une entité située dans un autre lieu géographique (pays, continent, etc.).  
   *	**Outils**: AWS, S3, CloudWatch, EC2, VPC, IAM
 
-###	- The Hadoop Ecosystem
+###	- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) The Hadoop Ecosystem
 #### Spark Streaming - Twitter :
   *	Création et configuration d'un Dataflow qui analysera en temps réel les tweets d'un compte prédéfini.
   *	**Outils**: Cloudera, Apache Nifi, Apache Spark, Kafka, HBase and Hive.
   * link : [Spark-Streaming-Twitter-presidential](https://github.com/BTajini/SparkStreamingTwitter-presidential)
   
-###	- Advanced Statistical Analysis and Machine Learning:
+###	- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Advanced Statistical Analysis and Machine Learning:
 ####	Statistique Avancée - Budget du Gouvernement :
   *	Analyse du budget du gouvernement français entre la période de 1872 à 1971.
   *	**Outils**: R, FactorMiner
@@ -57,7 +57,7 @@
 *	Tests multiples basés sur l'approximation gaussienne de la méthode des événements unitaires (en utilisant R)
 * **Algorithmes et Outils**: Independence tests - Poisson processes - Neuronal assemblies
 
-###	- Engineering project 
+###	- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Engineering project 
 #### 1.  Deep Learning - Deep Residual Networks (Identity Mappings) - Food 101:
    * Deep Residual Learning network pour la reconnaissance et classification d'images du Dataset Food 101 avec comme Residual Networks        
        - (ResNet): ResNet-110/Resnet-164/wide-Resnet.
@@ -65,6 +65,6 @@
    * **Dataset**: Food 101 (**101 000 images**)
    * link : [Resnet-Theano-Lasagne](https://github.com/BTajini/Resnet-Theano)
 
-###	- GE DIGITAL Hackathon - Challenge HealthCare:  
+###	- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) GE DIGITAL Hackathon - Challenge HealthCare:  
 *	Application DoseWatch + pour hôpitaux européens utilisant la plate-forme PREDIX basée sur un jeu de données réel
 * **Outils**: Predix, Json, R, Javascript, Html/CSS, Python 

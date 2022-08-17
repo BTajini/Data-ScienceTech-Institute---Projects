@@ -2,7 +2,7 @@
 
 <img src="https://camo.githubusercontent.com/32c83af1243e238fb9907c2b7f4c85003b9cf902/68747470733a2f2f696d672e736869656c64732e696f2f707970692f6c2f616e74697370616d2e737667" alt="license" data-canonical-src="https://img.shields.io/pypi/l/antispam.svg" style="max-width:100%;">
 
-###	- Agent-based Modeling
+###	- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Agent-based Modeling
 #### Perception du consommateur vis-à-vis d'un point de vente :
   *	Création d'un modèle de prédiction du comportement de consommateur qui prend en comptes des données subjectives (notoriété des           points de vente, image, service) et objectives (attractivité des points de vente, notion de distance ou temps d'accès, concurrence).
   *	**Algorithmes et Outils**: Netlogo, Modèle de Huff, Modèle MCI subjectif
